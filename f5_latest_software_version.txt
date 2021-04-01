@@ -1,6 +1,5 @@
 Latest F5 Software version:
 
-Legacy : 12.1.3.7
 BNET LAN : 13.1.1.4
 BNET DMZ PROD : 13.1.1.4
 BNET DMZ TEST : 13.1.1.4 
